@@ -49,6 +49,7 @@ SupportedLanguageKeys = [
     "guidemedium",
     "hideinfo",
     "jgmd",
+    "jwtd",
     "mikerogers",
     "name",
     "noinfo",
